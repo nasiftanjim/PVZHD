@@ -19,8 +19,9 @@ This changes almost every assets to match PvZ HD. Bringing the experience of PvZ
 
 ![TitleScreen](/screenshots/TitleScreen.png)
 
-# Download
-Go to [Releases](https://github.com/nasiftanjim/PVZHD/releases/latest) to download.
+# Download & Install
+* Go to [Releases](https://github.com/nasiftanjim/PVZHD/releases/latest) to download.
+* Extract the zip file anywhere & launch pvz_widescreen.exe
 
 # Credits
 * Created & Compiled by [Nasif Tanjim](https://www.youtube.com/@NasifTanjim)
