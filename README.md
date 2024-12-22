@@ -1,19 +1,17 @@
 # PvZ HD
-This changes almost every assets, animations, etc to match PvZ HD. Bringing the experience of PvZ HD on your PC!
-## Features:
+This changes almost every assets to match PvZ HD. Bringing the experience of PvZ HD on your PC!
 
-BGM (Background Music)
+# Showcase video
+[![Showcase Video](/screenshots/TitleScreen.png)](youtube.com)
 
-SFX
+![Menu](/screenshots/Menu.png)
 
-Animations
+![Minigames](/screenshots/Minigames.png)
 
-Assets
+![ZenGarden](/screenshots/ZenGarden.png)
 
-& more waiting for you!
+![LastStand](/screenshots/LastStand.png)
 
-### Video link:
+![AlmanacPlants](/screenshots/AlmanacPlants.png)
 
-https://youtu.be/DzITyatvpy8 (sub pls)
-
-## Go to releases to download!
+![AlmanacZombies](/screenshots/AlmanacZombies.png)
