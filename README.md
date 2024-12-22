@@ -17,6 +17,8 @@ This changes almost every assets to match PvZ HD. Bringing the experience of PvZ
 
 ![AlmanacZombies](/screenshots/AlmanacZombies.png)
 
+![TitleScreen](/screenshots/TitleScreen.png)
+
 # Credits
 * PvZ Widescreen - [HenryJK](https://github.com/HenryJk/PvZWidescreen/)
 * Original HD mod - BreakFastBrainz
