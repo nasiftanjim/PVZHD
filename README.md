@@ -23,6 +23,10 @@ This changes almost every assets to match PvZ HD. Bringing the experience of PvZ
 * Go to [Releases](https://github.com/nasiftanjim/PVZHD/releases/latest) to download.
 * Extract the zip file anywhere & launch pvz_widescreen.exe
 
+# Help
+![GameSelector](/help/GameSelector.png)
+![Challenge](/help/Challenge.png)
+
 # Credits
 * Created & Compiled by [Nasif Tanjim](https://www.youtube.com/@NasifTanjim)
 * PvZ Widescreen - [HenryJK](https://github.com/HenryJk/PvZWidescreen/)
