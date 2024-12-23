@@ -1,5 +1,5 @@
 # PvZ HD
-This changes almost every assets to match PvZ HD. Bringing the experience of PvZ HD on your PC!
+This changes almost every asset to match PvZ HD. Bringing the experience of PvZ HD on your PC!
 
 # Showcase Video
 [![Showcase Video](/screenshots/Thumbnail.png)](https://youtu.be/VZtRLQ1t4rY)
