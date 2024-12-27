@@ -1,5 +1,5 @@
-# PvZ HD
-This changes almost every asset to match PvZ HD. Bringing the experience of PvZ HD on your PC!
+<p align="center"><img alt="PVZ HD" src="help/PvZ_Logo.png"/></p>
+This mod changes almost every asset to match PvZ HD. Bringing the experience of PvZ HD on your PC!
 
 # Showcase Video
 [![Showcase Video](/screenshots/Thumbnail.png)](https://youtu.be/VZtRLQ1t4rY)
@@ -35,3 +35,5 @@ This changes almost every asset to match PvZ HD. Bringing the experience of PvZ 
 * GUI textures - [Reat, Raducu, joyful_starfish_91514, 00ga_booga](https://discord.com/invite/p3bDSTFckc)
 * Technical stuff - [PvZ 1 Modding Info Doc](https://docs.google.com/document/d/1kf3mUKssw3LKapwB-t9Lh4Qs5GjjaVJZ8cZ6H_u6a5M/edit?usp=sharing)
 * Special thanks to people from [PvZ 1 M.A](https://discord.com/invite/p3bDSTFckc)
+
+Please support [Genuine PVZ](https://www.ea.com/games/plants-vs-zombies) by Popcap Games.
