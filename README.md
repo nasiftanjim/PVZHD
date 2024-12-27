@@ -1,4 +1,6 @@
 <p align="center"><img alt="PVZ HD" src="help/PvZ_Logo.png"/></p>
+
+# PvZ HD
 This mod changes almost every asset to match PvZ HD. Bringing the experience of PvZ HD on your PC!
 
 # Showcase Video
