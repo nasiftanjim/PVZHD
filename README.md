@@ -25,7 +25,7 @@ This mod changes almost every asset to match PvZ HD. Bringing the experience of 
 * Go to [Releases](https://github.com/nasiftanjim/PVZHD/releases/latest) to download.
 * Extract the zip file anywhere & launch LawnProject.exe
 
-# Help (nly for v2.0.x)
+# Help (Only for v2.0.x)
 ![GameSelector](/help/GameSelector.png)
 ![Challenge](/help/Challenge.png)
 
