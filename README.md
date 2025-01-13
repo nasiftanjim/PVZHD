@@ -23,17 +23,18 @@ This mod changes almost every asset to match PvZ HD. Bringing the experience of 
 
 # Download & Install
 * Go to [Releases](https://github.com/nasiftanjim/PVZHD/releases/latest) to download.
-* Extract the zip file anywhere & launch pvz_widescreen.exe
+* Extract the zip file anywhere & launch LawnProject.exe
 
-# Help
+# Help (nly for v2.0.x)
 ![GameSelector](/help/GameSelector.png)
 ![Challenge](/help/Challenge.png)
 
 # Credits
 * Created & Compiled by [Nasif Tanjim](https://www.youtube.com/@NasifTanjim)
+* PvZ QE Decomp - [BULL3TB0T](https://github.com/BULL3TB0T/PvZ-Quality-Enhanced-Wide) & [Garlic](https://discord.com/invite/p3bDSTFckc)
 * PvZ Widescreen - [HenryJK](https://github.com/HenryJk/PvZWidescreen/)
 * Original HD mod - BreakFastBrainz
-* Backgrounds, Limbo Page thumbnails - [Fabian2do](https://www.youtube.com/@Fabian2do)
+* Backgrounds - [Fabian2do](https://www.youtube.com/@Fabian2do)
 * GUI textures - [Reat, Raducu, joyful_starfish_91514, 00ga_booga](https://discord.com/invite/p3bDSTFckc)
 * Technical stuff - [PvZ 1 Modding Info Doc](https://docs.google.com/document/d/1kf3mUKssw3LKapwB-t9Lh4Qs5GjjaVJZ8cZ6H_u6a5M/edit?usp=sharing)
 * Special thanks to people from [PvZ 1 M.A](https://discord.com/invite/p3bDSTFckc)
